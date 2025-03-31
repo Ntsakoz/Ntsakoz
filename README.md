@@ -5,7 +5,7 @@
 - 📫 How to reach me ...reach on email, ntsako41@gmail.com
 - 😄 Pronouns: ... They
 - ⚡ Fun fact: ... I enoy learning programming languages
--  Ecperience .... I'm currently working a bank as A Data Engineer
+-  Experience .... I'm currently working a bank as A Data Engineer
 
 
   
